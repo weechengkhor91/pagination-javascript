@@ -1,0 +1,23 @@
+ [
+        {
+            "username": "Linda",
+            "position": "Manager"
+        },
+        {
+            "username": "Fiona",
+            "position": "Financer"
+        },
+        {
+            "username": "Michelle",
+            "position": "Administrator"
+        },
+        {
+            "username": "Wing",
+            "position": "Front End Supervisor"
+        },
+        {
+            "username": "Devin",
+            "position": "IOS Developer"
+        }
+
+    ]
